@@ -80,7 +80,7 @@ yarn dev
 
 5. open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Route map
+## Route map test
 
 - [x] upsclae & variation
 - [ ] chatgpt prompt generation
